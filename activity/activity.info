@@ -1,0 +1,7 @@
+[Activity]
+name = Turtle Machine 
+activity_version = 7
+host_version = 1
+service_name = org.laptop.community.TurtleMachine
+icon = activity
+exec = sugar-activity activity.Activity
